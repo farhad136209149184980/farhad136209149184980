@@ -1,0 +1,53 @@
+header{
+    background-color: black;
+    height: 260px;
+}
+#mainh1{
+    text-align: center;
+    font-size: 56px;
+    color: red;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+#clock{
+    border: 4px dotted red;
+    border-radius: 15px;
+    width: 300px;
+    height: 65px;
+    margin-left: 35px;
+}
+#demo{
+    color: yellow;
+    font-size: 56px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#navh1{
+    background-color: aqua;
+    height: 50px;
+}
+#Fehrest{
+    margin-top: 1px;
+    margin-bottom: 0px;
+    list-style: none;
+}
+.lists{
+    float: right;
+    padding-right: 10px;
+}
+#testmeno{
+    background-color:yellow;
+    display:none;
+}
+.test{
+    list-style: none;
+}
+#day{
+    color: magenta;
+    font-size: 48px;
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-bottom: 3px;
+}

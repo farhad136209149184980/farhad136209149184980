@@ -1,0 +1,14 @@
+#mainh1{
+    font-size: 26px;
+}
+#clock{
+    border: 4px dotted red;
+    border-radius: 15px;
+    width: 200px;
+    height: 48px;
+    margin-left: 35px;
+}
+#demo{
+    font-size: 40px;
+    margin-top: 2px;
+}
